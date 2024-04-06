@@ -39,4 +39,4 @@ This project is open-source under the MIT License. See `LICENSE.md` for more inf
 🌟 I appreciate your feedback and contributions to make the client platform better!
 
 Created par Zakaria Ali Zouaoui ❤️
->>>>>>> e19913d9e6b2c76f51a0e1e45490ce1635bd0399
+
